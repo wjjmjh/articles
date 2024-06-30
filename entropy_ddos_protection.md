@@ -92,14 +92,14 @@ availability of their services.
 
 ### Shannon Entropy Formula
 
-The Shannon entropy _H(X)_ of a discrete random variable _X_ with possible outcomes _{ x1, x2, ... , xn }_ is defined
+The Shannon entropy _H(X)_ of a discrete random variable _X_ with possible outcomes _{ x₁, x₂, ... , xₙ }_ is defined
 as:
 
 $$ H(X) = -\sum_{i=1}^{n} p(x_i) \log_2 p(x_i) $$
 
 Where:
 
-- _p(xi)_ is the probability of occurrence of the outcome _xi_.
+- _p(xᵢ)_ is the probability of occurrence of the outcome _xᵢ_.
 - The logarithm is taken base 2, reflecting the binary nature of information.
 
 ## Entropy Practical Implementation in Real-World
